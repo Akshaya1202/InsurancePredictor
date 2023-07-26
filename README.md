@@ -1,1 +1,1 @@
-# InsurancePredictor
+# MedicalInsuranceCostPredictor
